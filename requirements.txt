@@ -1,0 +1,8 @@
+torch>=1.1.0
+torchvision>=0.2.1
+dill>=0.3.2
+Pillow>=6.2.1
+pyyaml
+easydict
+sklearn
+tensorboardX

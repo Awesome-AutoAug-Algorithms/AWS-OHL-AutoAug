@@ -1,0 +1,9 @@
+*.swp
+*.pyc
+__pycache__
+*.tar
+**/exp-*
+checkpoint*
+*events*
+*log*.txt
+.idea
