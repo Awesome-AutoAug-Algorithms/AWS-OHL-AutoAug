@@ -1,5 +1,4 @@
 # Automatic Augmentation Zoo
-An integration of several automatic augmentation methods, including OHL ([Online Hyper-Parameter Learning for Auto-Augmentation Strategy](http://openaccess.thecvf.com/content_ICCV_2019/papers/Lin_Online_Hyper-Parameter_Learning_for_Auto-Augmentation_Strategy_ICCV_2019_paper.pdf)), AWS ([Improving Auto Augment via Augmentation Wise Weight Sharing](https://arxiv.org/abs/2009.14737)) and more (coming soon).
 
 ## Introduction
 This repository provides the official implementations of [OHL](http://openaccess.thecvf.com/content_ICCV_2019/papers/Lin_Online_Hyper-Parameter_Learning_for_Auto-Augmentation_Strategy_ICCV_2019_paper.pdf) and [AWS](https://arxiv.org/abs/???), and will also integrate some other popular auto-aug methods (like [Auto Augment](https://openaccess.thecvf.com/content_CVPR_2019/papers/Cubuk_AutoAugment_Learning_Augmentation_Strategies_From_Data_CVPR_2019_paper.pdf), [Fast AutoAugment](http://papers.nips.cc/paper/8892-fast-autoaugment.pdf) and [Adversarial autoaugment](https://arxiv.org/pdf/1912.11188)) in pure PyTorch.
