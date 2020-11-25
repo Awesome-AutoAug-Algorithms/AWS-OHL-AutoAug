@@ -195,5 +195,5 @@ If you're going to to use this code in your research, please cite our papers ([O
 - **Cutout** : [paper](https://arxiv.org/pdf/1708.04552.pdf), [code](https://github.com/uoguelph-mlrg/Cutout)
 - **Auto Augment** : [paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Cubuk_AutoAugment_Learning_Augmentation_Strategies_From_Data_CVPR_2019_paper.pdf), [code](https://github.com/tensorflow/models/tree/master/research/autoaugment)
 - **Fast AutoAugment** : [paper](https://arxiv.org/abs/1905.00397), [code](https://github.com/kakaobrain/fast-autoaugment)
-- **Adversarial autoaugment**: [paper](https://arxiv.org/pdf/1912.11188)
+- **Adversarial autoaugment** : [paper](https://arxiv.org/pdf/1912.11188)
 
