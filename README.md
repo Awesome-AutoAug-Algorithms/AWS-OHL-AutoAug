@@ -15,7 +15,6 @@ We use `torch.distributed` to conduct the distributed training. The model checkp
 <!-- + OneDrive: [Link](https://1drv.ms/u/s!Am_mmG2-KsrnajesvSdfsq_cN48?e=aHVppN) -->
 
 
--------
 
 ## Dependencies
 
@@ -27,7 +26,6 @@ It would be recommended to conduct experiments under:
 
 All the dependencies are listed in `requirements.txt`. You may use commands like `pip install -r requirements.txt` to install them.
 
--------
 
 ### Running
 
@@ -161,7 +159,6 @@ pipeline:
 
 ```
 
--------
 
 ## Citation
 
