@@ -162,7 +162,7 @@ pipeline:
 
 ## Citation
 
-If you're going to to use this code in your research, please cite our papers ([OHL](https://arxiv.org/abs/1905.07373) and [AWS](https://arxiv.org/abs/2009.14737)).
+If you're going to to use this code in your research, please consider citing our papers ([OHL](https://arxiv.org/abs/1905.07373) and [AWS](https://arxiv.org/abs/2009.14737)).
 
 ```
 @inproceedings{lin2019online,
